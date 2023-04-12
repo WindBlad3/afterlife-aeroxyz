@@ -1,5 +1,5 @@
 # Aeroxyz
- Sistema de reserva de pasajes
+Ticket reservation system
  
  # Tecnologías
  Python 3.7.4
